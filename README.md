@@ -20,3 +20,13 @@ Ada programazio-lengoaian (sinple, paketerik gabe)
    -- "Nor da argazkiko pertsona?" erantzun zuena eta bi erantzun oker
    
    -- Erantzun okerrak zuzenaren antzekoak dira: sexu eta jarduera berekoak, adina+-Urt_Dif_Max
+   
+Fitxategiak:
+
+ - Programa (probatu_sortu_galderak.adb), 
+ 
+ - Proba bat egiteko datuak (query.csv), 
+ 
+ - Exekuzioaren emaitza adibidea (irteera_herrikideak_ada.csv)
+ 
+ - eta hainbat datu eta emaitza (query_xxxxxxxx.csv ---> irteera_herrikideak_xxxxxxxxxxxx.csv)
